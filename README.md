@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karin Rodríguez - @Karinyrfz
+- 👋 Hi, I’m Karin Rodriguez - @Karinyrfz
 - 👀 I’m interested in Analytics and Data Science Projects
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 kyrf21@gmail.com
